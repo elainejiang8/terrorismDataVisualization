@@ -1,0 +1,7 @@
+.types {
+    font-family: 'Quicksand', sans-serif;
+    position: center;
+    text-align: center;
+}
+
+.types type_label:checked + .button{background:#fff;}
